@@ -1,2 +1,3 @@
 # NOTEPAD-FRONTENDREACT
-Created with CodeSandbox
+Created in CodeSandbox using react components in JSX.
+OPEN:-https://gxzxmv.csb.app/
